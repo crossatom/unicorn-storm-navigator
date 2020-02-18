@@ -18,13 +18,17 @@ online_mode: true
 disabled_commands:
 - disabledcommandhere
 servers:
-  lobby:
-    motd: '&1Just another BungeeCord - Forced Host'
-    address: localhost:25565
+  auth:
+    motd: '&f◨ &aAuth Server &f◧'
+    address: localhost:25566
+    restricted: true
+  survival:
+    motd: '&f◨ &bSurvival Server &f◧'
+    address: localhost:25577
     restricted: false
 listeners:
-- query_port: 25577
-  motd: '&1Another Bungee server'
+- query_port: 25565
+  motd: '&f◨ &eUnicorn Storm &f◧'
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -32,9 +36,9 @@ listeners:
     pvp.md-5.net: pvp
   ping_passthrough: false
   priorities:
-  - lobby
+  - auth
   bind_local_address: true
-  host: 0.0.0.0:25577
+  host: 0.0.0.0:25565
   max_players: 1
   tab_size: 60
   force_default_server: false
