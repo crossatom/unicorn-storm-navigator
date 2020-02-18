@@ -24,7 +24,7 @@ servers:
     restricted: true
   survival:
     motd: '&f◨ &bSurvival Server &f◧'
-    address: localhost:25577
+    address: localhost:25567
     restricted: false
 listeners:
 - query_port: 25565
