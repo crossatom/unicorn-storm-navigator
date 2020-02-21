@@ -72,3 +72,45 @@
 12:55:12 [INFO] §cCommand not found
 12:55:13 [INFO] §cCommand not found
 12:55:15 [INFO] §cCommand not found
+11:21:11 [INFO] Using mbed TLS based native cipher.
+11:21:11 [INFO] Using zlib based native compressor.
+11:21:11 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:e6b0d43:1479
+11:21:11 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:21:11 [INFO] Epoll is working, utilising it!
+11:21:11 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+11:21:11 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+11:21:11 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+11:21:11 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+11:21:11 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+11:21:11 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:21:11 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [WARNING] Forced host server pvp is not defined
+11:21:11 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+11:21:11 [SEVERE] Feb 21, 2020 11:21:11 AM io.netty.util.internal.MacAddressUtil defaultMachineId
+WARNING: Failed to find a usable hardware address from the network interfaces; using random bytes: 16:de:39:a6:dc:d0:14:a9
+
+11:21:11 [INFO] Listening on /0.0.0.0:25565
+11:21:23 [INFO] [/195.9.179.42:55110] <-> InitialHandler has pinged
+12:06:25 [INFO] [/195.9.179.42:59740] <-> InitialHandler has pinged
+12:08:09 [INFO] [/195.9.179.42:15526] <-> InitialHandler has pinged
+12:09:51 [INFO] [/195.9.179.42:1768] <-> InitialHandler has connected
+12:09:51 [INFO] [TyLoDesu] disconnected with: ?cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+12:09:51 [INFO] [TyLoDesu] -> UpstreamBridge has disconnected
+12:10:00 [INFO] [/195.9.179.42:14739] <-> InitialHandler has pinged
+12:10:37 [INFO] [/195.9.179.42:8247] <-> InitialHandler has pinged
+12:10:38 [INFO] [/195.9.179.42:51946] <-> InitialHandler has connected
+12:10:39 [INFO] [TyLoDesu] <-> ServerConnector [auth] has connected
+12:10:41 [INFO] [TyLoDesu] <-> ServerConnector [auth] has disconnected
+12:11:08 [WARNING] [TyLoDesu] -> UpstreamBridge - read timed out
+12:11:08 [INFO] [TyLoDesu] disconnected with: ?fReadTimeoutException : null
+12:11:08 [INFO] [TyLoDesu] -> UpstreamBridge has disconnected
