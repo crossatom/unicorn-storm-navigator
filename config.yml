@@ -43,7 +43,7 @@ disabled_commands:
 - disabledcommandhere
 servers:
   auth:
-    motd: '&f> &aAuth Server &f<'
+    motd: "&f▰ &aUNICORN &cSTORM &f▰ \n &fНовая эра &2MINE&7CRAFT"
     address: localhost:25566
     restricted: true
   survival:
