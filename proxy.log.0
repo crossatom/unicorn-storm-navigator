@@ -41,3 +41,34 @@
 16:38:16 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
 16:38:16 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
 16:38:16 [INFO] Listening on /0.0.0.0:25577
+12:54:30 [INFO] Using standard Java JCE cipher.
+12:54:30 [INFO] Using standard Java compressor.
+12:54:30 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.15-SNAPSHOT:e6b0d43:1479
+12:54:30 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:54:30 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:54:30 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:54:30 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:54:30 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:54:30 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:54:30 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:30 [INFO] Loaded plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:30 [INFO] Loaded plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:30 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:30 [INFO] Loaded plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [INFO] Loaded plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [WARNING] Forced host server pvp is not defined
+12:54:31 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [INFO] Enabled plugin cmd_find version git:cmd_find:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [INFO] Enabled plugin cmd_server version git:cmd_server:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [INFO] Enabled plugin cmd_send version git:cmd_send:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:31 [INFO] Enabled plugin cmd_list version git:cmd_list:1.15-SNAPSHOT:e6b0d43:1479 by SpigotMC
+12:54:32 [INFO] Listening on /0.0.0.0:25565
+12:54:42 [INFO] §cCommand not found
+12:54:44 [INFO] §cCommand not found
+12:54:45 [INFO] §cCommand not found
+12:54:47 [INFO] §cCommand not found
+12:55:09 [INFO] §cCommand not found
+12:55:12 [INFO] §cCommand not found
+12:55:13 [INFO] §cCommand not found
+12:55:15 [INFO] §cCommand not found
