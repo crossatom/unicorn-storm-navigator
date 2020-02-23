@@ -1,7 +1,7 @@
 prevent_proxy_connections: false
 listeners:
 - query_port: 25565
-  motd: '&l&f>>&eUnicorn Storm&f<<'
+  motd: \u00a7b\u00a7k|\u00a7b\u25b6\u00a7a UNICORN STORM\u00a7b \u25c0\u00a7b\u00a7k|\u00a7r\n \u00a7e\u0421\u0442\u0430\u043d\u044c \u0447\u0430\u0441\u0442\u044c\u044e \u043d\u043e\u0432\u043e\u0439 \u044d\u0440\u044b\u00a7c MINECRAFT\u00a7e!
   tab_list: GLOBAL_PING
   query_enabled: false
   proxy_protocol: false
@@ -45,7 +45,7 @@ disabled_commands:
 - disabledcommandhere
 servers:
   auth:
-    motd: "&l&f*** &aUNICORN &cSTORM &f***\n ->&fNEW AGE OF &2MINE&7CRAFT"
+    motd: \u00a7b\u00a7k|\u00a7b\u25b6\u00a7a UNICORN STORM\u00a7b \u25c0\u00a7b\u00a7k|\u00a7r\n \u00a7e\u0421\u0442\u0430\u043d\u044c \u0447\u0430\u0441\u0442\u044c\u044e \u043d\u043e\u0432\u043e\u0439 \u044d\u0440\u044b\u00a7c MINECRAFT\u00a7e!
     address: localhost:25566
     restricted: true
   survival:
